@@ -1,1 +1,1 @@
-![Image of Great Dane Puppy](https://images.app.goo.gl/5Hu6MZXJyAzQQDRU7)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
