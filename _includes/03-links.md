@@ -1,1 +1,1 @@
-(https://www.linkedin.com/in/amberdharding/)
+![LinkedIn](https://www.linkedin.com/in/amberdharding/)
