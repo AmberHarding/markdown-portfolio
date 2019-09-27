@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Great Dane Puppy](https://images.app.goo.gl/5Hu6MZXJyAzQQDRU7)
